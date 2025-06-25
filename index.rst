@@ -56,18 +56,23 @@ FAQs
 ----
 
 **Q: Can I activate my Capital One card without an online account?**  
+
 **A:** No, Capital One requires users to sign in or create an account to activate their card. This adds an extra layer of security.
 
 **Q: What if I lost my card before activating it?**  
+
 **A:** You should contact Capital One customer support immediately to report a lost or stolen card before activation.
 
 **Q: Can I use the same process to activate a replacement card?**  
+
 **A:** Yes, the steps at `capitalone.com/activate <#>`_ are the same for new and replacement cards.
 
 **Q: How long does activation take?**  
+
 **A:** Activation is usually instant once the required information is submitted correctly.
 
 **Q: Is it safe to activate my card online?**  
+
 **A:** Yes, `capitalone.com/activate <#>`_ is secure and encrypted. Always ensure you’re on the official Capital One website.
 
 Final Thoughts
